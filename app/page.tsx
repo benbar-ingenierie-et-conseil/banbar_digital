@@ -13,6 +13,14 @@ export default function Home() {
           <h1>Ok fine2</h1>
           <h1>Ok fine3</h1>
           <h1>Ok fine4 from simo</h1>
+          <h1>Ok fine</h1>
+          <h1>Ok fine2</h1>
+          <h1>Ok fine3</h1>
+          <h1>Ok fine4 from simo</h1>
+          <h1>Ok fine</h1>
+          <h1>Ok fine2</h1>
+          <h1>Ok fine3</h1>
+          <h1>Ok fine4 from simo</h1>
         </div>
       </div>
 
