@@ -15,7 +15,7 @@ export default function Home() {
           <h1>Ok fine</h1>
           <h1>Ok fine</h1>
           <h1>Ok fine</h1>
-          <h1>Ok fine from simo computer</h1>
+          <h1>Ok fine from simo computer @</h1>
 
 
         </div>
