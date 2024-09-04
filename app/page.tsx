@@ -10,10 +10,9 @@ export default function Home() {
         </p>
         <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:size-auto lg:bg-none">
           <h1>Ok fine</h1>
-
-
-          <h1>Ok fine from banbar</h1>
-
+          <h1>Ok fine2</h1>
+          <h1>Ok fine3 I want to test by new branch</h1>
+     
         </div>
       </div>
 
